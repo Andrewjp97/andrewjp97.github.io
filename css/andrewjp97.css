@@ -4,7 +4,7 @@
 .navbar-inverse .navbar-nav>.active>a:focus {
     background-color: #bf382a
 }
-
+/* Used to overide the color of links in the footer when hovered over to enhance visibility and clarity*/
 #footer a:hover {
   color: #ffffff;
 }
