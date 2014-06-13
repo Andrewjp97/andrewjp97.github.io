@@ -4,3 +4,7 @@
 .navbar-inverse .navbar-nav>.active>a:focus {
     background-color: #bf382a
 }
+
+#footer a:hover {
+  color: #ffffff;
+}
